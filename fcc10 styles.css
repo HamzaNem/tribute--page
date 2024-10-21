@@ -47,11 +47,11 @@ h1{
 
 
 #img-div {
-    
+    max-width: 820px;
+    margin: auto;
     background-color: rgba(227, 227, 227, 0.938);
-    padding: 20px 20px 0 20px ;
-    margin-right: 10%;
-    margin-left: 10%;
+    padding: 20px 20px 10px 20px ;
+
     border-radius: 2px;
     box-shadow: 2px 2px 5px gray;
 }
@@ -59,7 +59,7 @@ h1{
 #image {
     display: block;
     width: 100%;
-    max-width: 100%;
+    max-width: 800px;
     border-radius: 3px;
     margin: auto ;    
 }
